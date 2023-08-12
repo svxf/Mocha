@@ -1,0 +1,229 @@
+/* ==UserStyle==
+@name Google Classroom - Catppuccin Mocha Theme
+@namespace svxf
+@version 0.1
+@description Catppuccin Mocha theme for Google Classroom
+@homepageURL https://github.com/svxf/Mocha
+@updateURL https://github.com/svxf/Mocha/Google Classroom/catppuccin.user.css
+@author svxf
+@license MIT
+==/UserStyle== */
+
+@-moz-document domain("classroom.google.com") {
+/* Main background color */
+body {
+    background-color: #1e1e2e !important;
+    /* Base */
+    /*     background: linear-gradient(rgba(51, 51, 51, 0), rgba(0, 0, 0, 0.23) 50%, rgba(137, 180, 250, 0.06) 100%, rgb(51, 51, 51) 15%); */
+}
+
+.kFwPee {
+    background-color: #1e1e2e !important;
+}
+
+/* Top bar background */
+.gb_Cd {
+    background-color: #f5e0dc !important;
+    /* Rosewater */
+}
+
+/* Course cards background */
+.Fc0o2d {
+    background-color: #f2cdcd !important;
+    /* Flamingo */
+}
+
+/* Course title text color */
+.yc9vZb {
+    color: #a6adc8 !important;
+    /* Subtext0 */
+}
+
+/* Buttons */
+.lRucxe {
+    background-color: #94e2d5 !important;
+    /* Teal */
+    color: #1e1e2e !important;
+    /* Base */
+}
+
+/* Links */
+.asQXV {
+    color: #bac2de !important;
+    /* Subtext1 */
+}
+
+/* Sidebar */
+.OX4Vcb {
+    background-color: #181825 !important;
+    /* Mantle */
+    color: #cdd6f4 !important;
+    /* Text */
+}
+
+/* Sidebar Border Right */
+.Tabkde {
+    border-right: .0625rem solid #313244;
+}
+
+/* Background of currently selected page in sidebar */
+.LlcfK.bFjUmb-Ysl7Fe {
+    background-color: #89b4fa1c !important;
+    /* Blue */
+}
+
+/* Icons */
+.gb_j,
+.NMm5M,
+.VfPpkd-kBDsod {
+    color: #bac2de !important;
+    /* Subtext1 */
+    fill: #bac2de !important;
+    /* Subtext1 */
+}
+
+/* Cards */
+.TQYOZc,
+.SZ0kZe {
+    border: 0.0625rem solid #313244;
+    /* Surface0 */
+    background-color: #181825 !important;
+    /* Surface1 */
+}
+.Aopndd {
+    border: 0.0625rem solid #313244;
+}
+
+/* Popup */
+.VfPpkd-StrnGf-rymPhb-b9t22c,
+.Shk6y {
+    color: #bac2de !important;
+}
+.dDKhVc-Wvd9Cc,
+.asQXV,
+.xHPsid,
+.hN1OOc {
+    color: #a6adc8 !important;
+}
+
+.WFUiUb,
+.VnOHwf-Tvm9db,
+.pco8Kc,
+.obylVb,
+.j70YMc {
+    color: #bac2de !important;
+}
+.z3vRcc-ZoZQ1,
+.tLDEHd,
+.wCDkmf,
+.jO7h3c,
+.ReCbLb:not(.VfPpkd-O1htCb-OWXEXe-OWB6Me),
+.VfPpkd-uusGie-fmcmS,
+.s8kOBc,
+.VfPpkd-rymPhb-ibnC6b-OWXEXe-gk6SMd,
+.VfPpkd-rymPhb-fpDzbe-fmcmS,
+.K6Ovqd,
+.A6dC2c,
+.saYe1e,
+.VfPpkd-vQzf8d,
+.A6dC2c-J3yWx {
+    color: #a6adc8 !important;
+}
+.kRYv9b,
+.dDKhVc {
+    color: #9399b2 !important;
+}
+
+.PFLqgc,
+.PagUde,
+.KFl4Z:before,
+.bFjUmb-Tvm9db,
+.OjOEXb {
+    background: #181825 !important;
+    background-image: none !important;
+}
+.IzVHde,
+.WFUiUb,
+.bFjUmb-Ysl7Fe {
+    background: #181825 !important;
+}
+
+.WFUiUb .eumXzf:after {
+    border-color: #a6adc8 !important;
+}
+
+.UISY8d-Ysl7Fe:hover,
+.P3W0Dd-Ysl7Fe:focus,
+.WFUiUb,
+.tUJKGd:not(.xp2dJ):not(.rZXyy):hover,
+.idtp4e,
+.s8kOBc,
+.VfPpkd-rymPhb-ibnC6b.VfPpkd-rymPhb-ibnC6b-OWXEXe-gk6SMd {
+    background: #1e1e2e !important;
+}
+
+.VfPpkd-xl07Ob-XxIAqe,
+.I7OXgf,
+.Aopndd,
+.d4Fe0d,
+.JPdR6b,
+.zTrXGf {
+    border: 0.0625rem solid #313244;
+    /* Surface0 */
+    background-color: #181825 !important;
+    /* Surface1 */
+}
+
+/* Navbar Title */
+.rpo4wf-J3yWx,
+.wZTANe,
+.J1raN {
+    color: #bac2de !important;
+    /* Subtext1 */
+}
+
+/* Navbar Border */
+.joJglb,
+.gKkZCe,
+.KEDCCd,
+.mwJvDe,
+.WFUiUb,
+.uO32ac,
+.u73Apc,
+.xPAMbf {
+    background-color: #181825 !important;
+    /* Mantle */
+    border-bottom: .0625rem solid #313244 !important;
+}
+.tUJKGd:not(:first-child) {
+    border-top: 0.0625rem solid #313244;
+}
+
+.d6CWTd,
+.s2g3Xd {
+    border-top: .0625rem solid #313244 !important;
+}
+
+/* Adjust more styles as needed */
+/* Header text */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #cdd6f4 !important;
+    /* Text */
+}
+
+/* Subtext */
+.sdDCme,
+.lziZub,
+.nforOe,
+.Y5vSD,
+.Evt7cb,
+.MocG8c {
+    color: #bac2de !important;
+    /* Subtext1 */
+}
+}
