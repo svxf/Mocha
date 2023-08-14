@@ -4,7 +4,7 @@
 @version 0.1
 @description Catppuccin Mocha theme for Google Classroom
 @homepageURL https://github.com/svxf/Mocha
-@updateURL https://github.com/svxf/Mocha/raw/main/Google%20Classroom/catppuccin.user.css
+@updateURL https://github.com/svxf/Mocha/Google Classroom/catppuccin.user.css
 @author svxf
 @license MIT
 ==/UserStyle== */
@@ -222,7 +222,9 @@ h6 {
 .nforOe,
 .Y5vSD,
 .Evt7cb,
-.MocG8c {
+.MocG8c,
+.apFsO,
+.onkcGd {
     color: #bac2de !important;
     /* Subtext1 */
 }
